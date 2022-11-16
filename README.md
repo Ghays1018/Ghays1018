@@ -1,5 +1,5 @@
 - Hi, I’m @Ghays1018
-- I’m interested in mainframe development, Java, Python, C++, and anything else that catches my eye
+- I’m interested in mainframe development, Java, Python, C++, HTML, COBOL, and more
 - I’m currently learning the IBM ZXplore system and studying for an undergrad BCIS degree at the University of North Texas in Denton
 - I’m looking to collaborate on projects that will expand my knowledge and give me greater experience
 - How to reach me:
